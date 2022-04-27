@@ -2,7 +2,7 @@
 
 This is another sandbox project I created to learn and review concurrency programming using Java language.
 
-## Practice items
+### Practice items
 
 1. Package `org.codecraftlabs.concurrency.prodcons`
 
