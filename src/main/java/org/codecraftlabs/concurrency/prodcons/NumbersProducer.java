@@ -1,4 +1,4 @@
-package org.codecraftlabs.concurrency;
+package org.codecraftlabs.concurrency.prodcons;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ThreadLocalRandom;
