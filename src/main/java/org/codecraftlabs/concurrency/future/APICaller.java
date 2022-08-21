@@ -14,10 +14,6 @@ public class APICaller implements Callable<String> {
         this.urlAddress = urlAddress;
     }
 
-    public String getUrlAddress() {
-        return urlAddress;
-    }
-
     @Override
     public String call() throws IOException {
         return callUrl();
